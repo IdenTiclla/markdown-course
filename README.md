@@ -87,7 +87,10 @@ if __name__ == "__main__":
 <!-- GITHUB MARKDOWN-->
 
 * [x] TASK 1
-* [] TASK 2
-* [] TASK 3
+* [ ] TASK 2
+* [ ] TASK 3
 * [x] TASK 4
 * [x] TASK 5
+
+
+@faztweb :smiley: :+1:
